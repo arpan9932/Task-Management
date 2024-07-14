@@ -1,0 +1,25 @@
+.App {
+  padding: 20px;
+}
+.task-list {
+  display: flex;
+  flex-direction: column;
+}
+.task-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+form div {
+  margin-bottom: 10px;
+}
+.app-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.app-button {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
